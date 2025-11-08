@@ -3,4 +3,4 @@ A simulation of crystal growth, using the Diffusion-Limited Aggregation process.
 
 # NOTE - AI USAGE
 FractaLab's codebase will not and does not directly contain AI generated code.
-BUT, AI was and will be used for tech stack reccomendations, error handling, math problems, and other non-direct uses.
+BUT, AI was and will be used for tech stack recomendations, error handling, math problems, and other non-direct uses.
